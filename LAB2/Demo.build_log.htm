@@ -1,0 +1,197 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Tool Versions:</h2>
+IDE-Version: µVision V5.17.0.0
+Copyright (C) 2015 ARM Ltd and ARM Germany GmbH. All rights reserved.
+License Information: sdf sdf, sdf, LIC=----
+ 
+Tool Versions:
+Toolchain:       MDK-Lite  Version: 5.17
+Toolchain Path:  C:\Keil_v5\ARM\ARMCC\Bin
+C Compiler:      Armcc.exe V5.06 update 1 (build 61)
+Assembler:       Armasm.exe V5.06 update 1 (build 61)
+Linker/Locator:  ArmLink.exe V5.06 update 1 (build 61)
+Library Manager: ArmAr.exe V5.06 update 1 (build 61)
+Hex Converter:   FromElf.exe V5.06 update 1 (build 61)
+CPU DLL:         SARMCM3.DLL V5.17
+Dialog DLL:      DCM.DLL V1.13.4.0
+Target DLL:      UL2CM3.DLL V1.156.1.0
+Dialog DLL:      TCM.DLL V1.14.6.0
+ 
+<h2>Project:</h2>
+C:\Labs\ARM\LAB2\Demo.uvproj
+Project File Date:  12/17/2015
+
+<h2>Output:</h2>
+*** Using Compiler 'V5.06 update 1 (build 61)', folder: 'C:\Keil_v5\ARM\ARMCC\Bin'
+Build target 'Target 1'
+compiling Font_6x8.c...
+compiling Font_7x10_bold.c...
+compiling text.c...
+systick.h(25): warning:  #1295-D: Deprecated declaration SysTickStop - give arg types
+  void SysTickStop();
+text.c(164): warning:  #167-D: argument of type "uc8 *" is incompatible with parameter of type "const char *"
+              for (i = 0; i < strlen(str); i++)
+text.c: 2 warnings, 0 errors
+compiling Font_12x16.c...
+compiling gl.c...
+compiling Font_7x10_thin.c...
+compiling joystick.c...
+compiling lcd.c...
+compiling leds.c...
+leds.h(52): warning:  #1-D: last line of file ends without a newline
+   *============================================================================================*/
+leds.c: 1 warning, 0 errors
+compiling Menu.c...
+leds.h(52): warning:  #1-D: last line of file ends without a newline
+   *============================================================================================*/
+test.h(4): warning:  #1295-D: Deprecated declaration COMPINIT - give arg types
+  void COMPINIT();
+test.h(5): warning:  #1295-D: Deprecated declaration PADINIT - give arg types
+  void PADINIT();
+test.h(6): warning:  #1-D: last line of file ends without a newline
+  void ADCTEST();
+test.h(6): warning:  #1295-D: Deprecated declaration ADCTEST - give arg types
+  void ADCTEST();
+Menu.c(128): warning:  #167-D: argument of type "uc8 *" is incompatible with parameter of type "const char *"
+      x = (
+AX_X - (CurrentFont->Width * strlen(ptr))) / 2;
+Menu.c(221): warning:  #167-D: argument of type "uc8 *" is incompatible with parameter of type "const char *"
+      x = (
+AX_X - (CurrentFont->Width * strlen(ptr))) / 2;
+Menu.c(52): warning:  #550-D: variable "ItemNumb" was set but never used
+  static u32 ItemNumb[MAX_MENU_LEVELS];
+Menu.c: 8 warnings, 0 errors
+compiling Main.c...
+Main.c(55): warning:  #1-D: last line of file ends without a newline
+  }
+Main.c: 1 warning, 0 errors
+compiling Menu_gl.c...
+systick.h(25): warning:  #1295-D: Deprecated declaration SysTickStop - give arg types
+  void SysTickStop();
+Menu_gl.c(189): warning:  #188-D: enumerated type mixed with another type
+      SetCrystal(0);
+Menu_gl.c(199): warning:  #188-D: enumerated type mixed with another type
+      SetCrystal(1);
+Menu_gl.c(335): warning:  #111-D: statement is unreachable
+  if (~BKP->REG_0F && 0x15)
+Menu_gl.c: 4 warnings, 0 errors
+compiling Menu_text.c...
+Menu_text.c(131): warning:  #167-D: argument of type "char *" is incompatible with parameter of type "uc8 *"
+              LCD_PUTS(0, (CurrentFont->Height) * i, Book[top_ind + i]);
+Menu_text.c: 1 warning, 0 errors
+compiling Menu_leds.c...
+leds.h(52): warning:  #1-D: last line of file ends without a newline
+   *============================================================================================*/
+Menu_leds.c: 1 warning, 0 errors
+compiling systick.c...
+systick.h(25): warning:  #1295-D: Deprecated declaration SysTickStop - give arg types
+  void SysTickStop();
+systick.c: 1 warning, 0 errors
+assembling startup_MPS.s...
+compiling uart.c...
+leds.h(52): warning:  #1-D: last line of file ends without a newline
+   *============================================================================================*/
+uart.c(32): warning:  #177-D: variable "D" was declared but never referenced
+  	u32 D;
+uart.c(33): warning:  #177-D: variable "C" was declared but never referenced
+  	u32 C;
+uart.c(36): warning:  #177-D: variable "str" was declared but never referenced
+  	u8 str[10];
+uart.c(39): warning:  #177-D: variable "err" was declared but never referenced
+  	u8 err = 0xb7;
+uart.c: 5 warnings, 0 errors
+compiling analog.c...
+leds.h(52): warning:  #1-D: last line of file ends without a newline
+   *============================================================================================*/
+analog.c(32): warning:  #177-D: variable "C" was declared but never referenced
+  	u32 C;
+analog.c(34): warning:  #177-D: variable "i" was declared but never referenced
+  	u8 i;
+analog.c(35): warning:  #177-D: variable "err" was declared but never referenced
+  	u8 err;
+analog.c(160): warning:  #177-D: variable "D" was declared but never referenced
+  	u32 D;
+analog.c(161): warning:  #177-D: variable "C" was declared but never referenced
+  	u32 C;
+analog.c(162): warning:  #177-D: variable "x" was declared but never referenced
+  	u32 x;
+analog.c(164): warning:  #177-D: variable "i" was declared but never referenced
+  	u8 i;
+analog.c(165): warning:  #177-D: variable "err" was declared but never referenced
+  	u8 err = 0xb7;
+analog.c(213): warning:  #177-D: variable "D" was declared but never referenced
+  	u32 D;
+analog.c(214): warning:  #177-D: variable "C" was declared but never referenced
+  	u32 C;
+analog.c(215): warning:  #177-D: variable "x" was declared but never referenced
+  	u32 x;
+analog.c(217): warning:  #177-D: variable "i" was declared but never referenced
+  	u8 i;
+analog.c(218): warning:  #177-D: variable "err" was declared but never referenced
+  	u8 err = 0xb7;
+analog.c: 14 warnings, 0 errors
+compiling FlashDev.c...
+compiling test.c...
+test.h(4): warning:  #1295-D: Deprecated declaration COMPINIT - give arg types
+  void COMPINIT();
+test.h(5): warning:  #1295-D: Deprecated declaration PADINIT - give arg types
+  void PADINIT();
+test.h(6): warning:  #1-D: last line of file ends without a newline
+  void ADCTEST();
+test.h(6): warning:  #1295-D: Deprecated declaration ADCTEST - give arg types
+  void ADCTEST();
+leds.h(52): warning:  #1-D: last line of file ends without a newline
+   *============================================================================================*/
+test.c(40): warning:  #61-D: integer operation result is out of range
+  	
+KP->REG_0F |= 1<<4 | 1<<31 | 1<<15;
+test.c(41): warning:  #61-D: integer operation result is out of range
+  	
+KP->REG_0F &= ~(1<<31);
+test.c(53): warning:  #111-D: statement is unreachable
+  	b=0;
+test.c(65): warning:  #111-D: statement is unreachable
+  	
+KP->REG_0F &= ~(0x3); // LSEON = 0;
+test.c(10): warning:  #550-D: variable "b" was set but never used
+  u32 i,b;
+test.c(130): warning:  #111-D: statement is unreachable
+  	
+ST_CLK->PER_CLOCK |=1<<27 | 1<<24 ;
+test.c(165): warning:  #177-D: variable "i" was declared but never referenced
+  u32 i;
+test.c(242): warning:  #177-D: variable "i" was declared but never referenced
+  u32 i;
+test.c(408): warning:  #177-D: variable "LEVEL" was declared but never referenced
+  u8 LEVEL;
+test.c: 14 warnings, 0 errors
+compiling timer.c...
+leds.h(52): warning:  #1-D: last line of file ends without a newline
+   *============================================================================================*/
+timer.c(32): warning:  #177-D: variable "D" was declared but never referenced
+  	u32 D;
+timer.c(33): warning:  #177-D: variable "C" was declared but never referenced
+  	u32 C;
+timer.c(34): warning:  #177-D: variable "x" was declared but never referenced
+  	u8 x;
+timer.c(36): warning:  #177-D: variable "y" was declared but never referenced
+  	u8 y;
+timer.c(38): warning:  #177-D: variable "b" was declared but never referenced
+  	u8 b[10];
+timer.c(39): warning:  #177-D: variable "i" was declared but never referenced
+  	u8 i=0;
+timer.c(40): warning:  #177-D: variable "err" was declared but never referenced
+  	u8 err = 0xb7;
+timer.c: 8 warnings, 0 errors
+compiling FlashPrg.c...
+linking...
+Program Size: Code=740 RO-data=224 RW-data=4 ZI-data=2148  
+FromELF: creating hex file...
+".\Demo.axf" - 0 Error(s), 60 Warning(s).
+Build Time Elapsed:  00:00:05
+</pre>
+</body>
+</html>

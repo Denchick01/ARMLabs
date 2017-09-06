@@ -1,0 +1,9 @@
+.\system_mdr32f9qx.o: system_MDR32F9Qx.c
+.\system_mdr32f9qx.o: MDR32Fx.h
+.\system_mdr32f9qx.o: .\CMSIS\core_cm3.h
+.\system_mdr32f9qx.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\system_mdr32f9qx.o: system_MDR32F9Qx.h
+.\system_mdr32f9qx.o: MDR32F9Qx_config.h
+.\system_mdr32f9qx.o: MDR32F9Qx_board.h
+.\system_mdr32f9qx.o: MDR32F9Qx_lib.h
+.\system_mdr32f9qx.o: .\CMSIS\stdint.h

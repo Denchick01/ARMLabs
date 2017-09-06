@@ -1,0 +1,529 @@
+Dependencies for Project 'Demo', Target 'Target 1': (DO NOT MODIFY !)
+F (.\text.c)(0x4C36C698)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Milandr\MDR32F9x-D__UVISION_VERSION="517"-o .\text.o --omf_browse .\text.crf --depend .\text.d)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x55DB71C8)
+I (lcd.h)(0x4C3583A0)
+I (types.h)(0x4BF60090)
+I (1986BE91T1.h)(0x4BF4E840)
+I (1986be91_can.h)(0x4B95DE40)
+I (cm3_macro.h)(0x4B95DE40)
+I (1986be91_usb.h)(0x4B95DE40)
+I (1986be91_eeprom.h)(0x4B95DE40)
+I (1986be91_rst_clk.h)(0x4B95DE40)
+I (1986be91_dma.h)(0x4B95DE40)
+I (1986be91_uart.h)(0x4B95DE40)
+I (1986be91_spi.h)(0x4B95DE40)
+I (1986be91_i2c.h)(0x4B95DE40)
+I (1986be91_power.h)(0x4B95DE40)
+I (1986be91_wwdg.h)(0x4B95DE40)
+I (1986be91_iwdg.h)(0x4B95DE40)
+I (1986be91_timer.h)(0x4B95DE40)
+I (1986be91_adc.h)(0x4B95DE40)
+I (1986be91_dac.h)(0x4B95DE40)
+I (1986be91_comp.h)(0x4B95DE40)
+I (1986be91_port.h)(0x4B95DE40)
+I (1986be91_bkp.h)(0x4B95DE40)
+I (1986be91_ext_bus_cntrl.h)(0x4B95DE40)
+I (1986be91_sys.h)(0x4B95DE40)
+I (text.h)(0x4C36B810)
+I (font_defs.h)(0x4BF60054)
+I (joystick.h)(0x4BF60054)
+I (systick.h)(0x4C3585F8)
+I (menu.h)(0x4C36AD0C)
+F (.\Font_6x8.c)(0x4B84C18C)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Milandr\MDR32F9x-D__UVISION_VERSION="517"-o .\font_6x8.o --omf_browse .\font_6x8.crf --depend .\font_6x8.d)
+I (font_defs.h)(0x4BF60054)
+I (types.h)(0x4BF60090)
+I (1986BE91T1.h)(0x4BF4E840)
+I (1986be91_can.h)(0x4B95DE40)
+I (cm3_macro.h)(0x4B95DE40)
+I (1986be91_usb.h)(0x4B95DE40)
+I (1986be91_eeprom.h)(0x4B95DE40)
+I (1986be91_rst_clk.h)(0x4B95DE40)
+I (1986be91_dma.h)(0x4B95DE40)
+I (1986be91_uart.h)(0x4B95DE40)
+I (1986be91_spi.h)(0x4B95DE40)
+I (1986be91_i2c.h)(0x4B95DE40)
+I (1986be91_power.h)(0x4B95DE40)
+I (1986be91_wwdg.h)(0x4B95DE40)
+I (1986be91_iwdg.h)(0x4B95DE40)
+I (1986be91_timer.h)(0x4B95DE40)
+I (1986be91_adc.h)(0x4B95DE40)
+I (1986be91_dac.h)(0x4B95DE40)
+I (1986be91_comp.h)(0x4B95DE40)
+I (1986be91_port.h)(0x4B95DE40)
+I (1986be91_bkp.h)(0x4B95DE40)
+I (1986be91_ext_bus_cntrl.h)(0x4B95DE40)
+I (1986be91_sys.h)(0x4B95DE40)
+F (.\Font_7x10_bold.c)(0x4B84C18C)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Milandr\MDR32F9x-D__UVISION_VERSION="517"-o .\font_7x10_bold.o --omf_browse .\font_7x10_bold.crf --depend .\font_7x10_bold.d)
+I (font_defs.h)(0x4BF60054)
+I (types.h)(0x4BF60090)
+I (1986BE91T1.h)(0x4BF4E840)
+I (1986be91_can.h)(0x4B95DE40)
+I (cm3_macro.h)(0x4B95DE40)
+I (1986be91_usb.h)(0x4B95DE40)
+I (1986be91_eeprom.h)(0x4B95DE40)
+I (1986be91_rst_clk.h)(0x4B95DE40)
+I (1986be91_dma.h)(0x4B95DE40)
+I (1986be91_uart.h)(0x4B95DE40)
+I (1986be91_spi.h)(0x4B95DE40)
+I (1986be91_i2c.h)(0x4B95DE40)
+I (1986be91_power.h)(0x4B95DE40)
+I (1986be91_wwdg.h)(0x4B95DE40)
+I (1986be91_iwdg.h)(0x4B95DE40)
+I (1986be91_timer.h)(0x4B95DE40)
+I (1986be91_adc.h)(0x4B95DE40)
+I (1986be91_dac.h)(0x4B95DE40)
+I (1986be91_comp.h)(0x4B95DE40)
+I (1986be91_port.h)(0x4B95DE40)
+I (1986be91_bkp.h)(0x4B95DE40)
+I (1986be91_ext_bus_cntrl.h)(0x4B95DE40)
+I (1986be91_sys.h)(0x4B95DE40)
+F (.\Font_7x10_thin.c)(0x4B84C18C)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Milandr\MDR32F9x-D__UVISION_VERSION="517"-o .\font_7x10_thin.o --omf_browse .\font_7x10_thin.crf --depend .\font_7x10_thin.d)
+I (font_defs.h)(0x4BF60054)
+I (types.h)(0x4BF60090)
+I (1986BE91T1.h)(0x4BF4E840)
+I (1986be91_can.h)(0x4B95DE40)
+I (cm3_macro.h)(0x4B95DE40)
+I (1986be91_usb.h)(0x4B95DE40)
+I (1986be91_eeprom.h)(0x4B95DE40)
+I (1986be91_rst_clk.h)(0x4B95DE40)
+I (1986be91_dma.h)(0x4B95DE40)
+I (1986be91_uart.h)(0x4B95DE40)
+I (1986be91_spi.h)(0x4B95DE40)
+I (1986be91_i2c.h)(0x4B95DE40)
+I (1986be91_power.h)(0x4B95DE40)
+I (1986be91_wwdg.h)(0x4B95DE40)
+I (1986be91_iwdg.h)(0x4B95DE40)
+I (1986be91_timer.h)(0x4B95DE40)
+I (1986be91_adc.h)(0x4B95DE40)
+I (1986be91_dac.h)(0x4B95DE40)
+I (1986be91_comp.h)(0x4B95DE40)
+I (1986be91_port.h)(0x4B95DE40)
+I (1986be91_bkp.h)(0x4B95DE40)
+I (1986be91_ext_bus_cntrl.h)(0x4B95DE40)
+I (1986be91_sys.h)(0x4B95DE40)
+F (.\Font_12x16.c)(0x4B84C18C)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Milandr\MDR32F9x-D__UVISION_VERSION="517"-o .\font_12x16.o --omf_browse .\font_12x16.crf --depend .\font_12x16.d)
+I (font_defs.h)(0x4BF60054)
+I (types.h)(0x4BF60090)
+I (1986BE91T1.h)(0x4BF4E840)
+I (1986be91_can.h)(0x4B95DE40)
+I (cm3_macro.h)(0x4B95DE40)
+I (1986be91_usb.h)(0x4B95DE40)
+I (1986be91_eeprom.h)(0x4B95DE40)
+I (1986be91_rst_clk.h)(0x4B95DE40)
+I (1986be91_dma.h)(0x4B95DE40)
+I (1986be91_uart.h)(0x4B95DE40)
+I (1986be91_spi.h)(0x4B95DE40)
+I (1986be91_i2c.h)(0x4B95DE40)
+I (1986be91_power.h)(0x4B95DE40)
+I (1986be91_wwdg.h)(0x4B95DE40)
+I (1986be91_iwdg.h)(0x4B95DE40)
+I (1986be91_timer.h)(0x4B95DE40)
+I (1986be91_adc.h)(0x4B95DE40)
+I (1986be91_dac.h)(0x4B95DE40)
+I (1986be91_comp.h)(0x4B95DE40)
+I (1986be91_port.h)(0x4B95DE40)
+I (1986be91_bkp.h)(0x4B95DE40)
+I (1986be91_ext_bus_cntrl.h)(0x4B95DE40)
+I (1986be91_sys.h)(0x4B95DE40)
+F (.\gl.c)(0x4BF5FEB0)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Milandr\MDR32F9x-D__UVISION_VERSION="517"-o .\gl.o --omf_browse .\gl.crf --depend .\gl.d)
+I (lcd.h)(0x4C3583A0)
+I (types.h)(0x4BF60090)
+I (1986BE91T1.h)(0x4BF4E840)
+I (1986be91_can.h)(0x4B95DE40)
+I (cm3_macro.h)(0x4B95DE40)
+I (1986be91_usb.h)(0x4B95DE40)
+I (1986be91_eeprom.h)(0x4B95DE40)
+I (1986be91_rst_clk.h)(0x4B95DE40)
+I (1986be91_dma.h)(0x4B95DE40)
+I (1986be91_uart.h)(0x4B95DE40)
+I (1986be91_spi.h)(0x4B95DE40)
+I (1986be91_i2c.h)(0x4B95DE40)
+I (1986be91_power.h)(0x4B95DE40)
+I (1986be91_wwdg.h)(0x4B95DE40)
+I (1986be91_iwdg.h)(0x4B95DE40)
+I (1986be91_timer.h)(0x4B95DE40)
+I (1986be91_adc.h)(0x4B95DE40)
+I (1986be91_dac.h)(0x4B95DE40)
+I (1986be91_comp.h)(0x4B95DE40)
+I (1986be91_port.h)(0x4B95DE40)
+I (1986be91_bkp.h)(0x4B95DE40)
+I (1986be91_ext_bus_cntrl.h)(0x4B95DE40)
+I (1986be91_sys.h)(0x4B95DE40)
+I (gl.h)(0x4BF60054)
+I (joystick.h)(0x4BF60054)
+F (.\joystick.c)(0x4BF5FEB0)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Milandr\MDR32F9x-D__UVISION_VERSION="517"-o .\joystick.o --omf_browse .\joystick.crf --depend .\joystick.d)
+I (joystick.h)(0x4BF60054)
+I (types.h)(0x4BF60090)
+I (1986BE91T1.h)(0x4BF4E840)
+I (1986be91_can.h)(0x4B95DE40)
+I (cm3_macro.h)(0x4B95DE40)
+I (1986be91_usb.h)(0x4B95DE40)
+I (1986be91_eeprom.h)(0x4B95DE40)
+I (1986be91_rst_clk.h)(0x4B95DE40)
+I (1986be91_dma.h)(0x4B95DE40)
+I (1986be91_uart.h)(0x4B95DE40)
+I (1986be91_spi.h)(0x4B95DE40)
+I (1986be91_i2c.h)(0x4B95DE40)
+I (1986be91_power.h)(0x4B95DE40)
+I (1986be91_wwdg.h)(0x4B95DE40)
+I (1986be91_iwdg.h)(0x4B95DE40)
+I (1986be91_timer.h)(0x4B95DE40)
+I (1986be91_adc.h)(0x4B95DE40)
+I (1986be91_dac.h)(0x4B95DE40)
+I (1986be91_comp.h)(0x4B95DE40)
+I (1986be91_port.h)(0x4B95DE40)
+I (1986be91_bkp.h)(0x4B95DE40)
+I (1986be91_ext_bus_cntrl.h)(0x4B95DE40)
+I (1986be91_sys.h)(0x4B95DE40)
+F (.\lcd.c)(0x4C511A0C)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Milandr\MDR32F9x-D__UVISION_VERSION="517"-o .\lcd.o --omf_browse .\lcd.crf --depend .\lcd.d)
+I (lcd.h)(0x4C3583A0)
+I (types.h)(0x4BF60090)
+I (1986BE91T1.h)(0x4BF4E840)
+I (1986be91_can.h)(0x4B95DE40)
+I (cm3_macro.h)(0x4B95DE40)
+I (1986be91_usb.h)(0x4B95DE40)
+I (1986be91_eeprom.h)(0x4B95DE40)
+I (1986be91_rst_clk.h)(0x4B95DE40)
+I (1986be91_dma.h)(0x4B95DE40)
+I (1986be91_uart.h)(0x4B95DE40)
+I (1986be91_spi.h)(0x4B95DE40)
+I (1986be91_i2c.h)(0x4B95DE40)
+I (1986be91_power.h)(0x4B95DE40)
+I (1986be91_wwdg.h)(0x4B95DE40)
+I (1986be91_iwdg.h)(0x4B95DE40)
+I (1986be91_timer.h)(0x4B95DE40)
+I (1986be91_adc.h)(0x4B95DE40)
+I (1986be91_dac.h)(0x4B95DE40)
+I (1986be91_comp.h)(0x4B95DE40)
+I (1986be91_port.h)(0x4B95DE40)
+I (1986be91_bkp.h)(0x4B95DE40)
+I (1986be91_ext_bus_cntrl.h)(0x4B95DE40)
+I (1986be91_sys.h)(0x4B95DE40)
+F (.\leds.c)(0x4BF5FEB0)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Milandr\MDR32F9x-D__UVISION_VERSION="517"-o .\leds.o --omf_browse .\leds.crf --depend .\leds.d)
+I (leds.h)(0x4BF60018)
+I (types.h)(0x4BF60090)
+I (1986BE91T1.h)(0x4BF4E840)
+I (1986be91_can.h)(0x4B95DE40)
+I (cm3_macro.h)(0x4B95DE40)
+I (1986be91_usb.h)(0x4B95DE40)
+I (1986be91_eeprom.h)(0x4B95DE40)
+I (1986be91_rst_clk.h)(0x4B95DE40)
+I (1986be91_dma.h)(0x4B95DE40)
+I (1986be91_uart.h)(0x4B95DE40)
+I (1986be91_spi.h)(0x4B95DE40)
+I (1986be91_i2c.h)(0x4B95DE40)
+I (1986be91_power.h)(0x4B95DE40)
+I (1986be91_wwdg.h)(0x4B95DE40)
+I (1986be91_iwdg.h)(0x4B95DE40)
+I (1986be91_timer.h)(0x4B95DE40)
+I (1986be91_adc.h)(0x4B95DE40)
+I (1986be91_dac.h)(0x4B95DE40)
+I (1986be91_comp.h)(0x4B95DE40)
+I (1986be91_port.h)(0x4B95DE40)
+I (1986be91_bkp.h)(0x4B95DE40)
+I (1986be91_ext_bus_cntrl.h)(0x4B95DE40)
+I (1986be91_sys.h)(0x4B95DE40)
+I (lcd.h)(0x4C3583A0)
+I (text.h)(0x4C36B810)
+I (font_defs.h)(0x4BF60054)
+I (joystick.h)(0x4BF60054)
+I (menu.h)(0x4C36AD0C)
+F (.\Main.c)(0x56629842)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Milandr\MDR32F9x-D__UVISION_VERSION="517"-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (1986be91t1.h)(0x4BF4E840)
+I (1986be91_can.h)(0x4B95DE40)
+I (cm3_macro.h)(0x4B95DE40)
+I (1986be91_usb.h)(0x4B95DE40)
+I (1986be91_eeprom.h)(0x4B95DE40)
+I (1986be91_rst_clk.h)(0x4B95DE40)
+I (1986be91_dma.h)(0x4B95DE40)
+I (1986be91_uart.h)(0x4B95DE40)
+I (1986be91_spi.h)(0x4B95DE40)
+I (1986be91_i2c.h)(0x4B95DE40)
+I (1986be91_power.h)(0x4B95DE40)
+I (1986be91_wwdg.h)(0x4B95DE40)
+I (1986be91_iwdg.h)(0x4B95DE40)
+I (1986be91_timer.h)(0x4B95DE40)
+I (1986be91_adc.h)(0x4B95DE40)
+I (1986be91_dac.h)(0x4B95DE40)
+I (1986be91_comp.h)(0x4B95DE40)
+I (1986be91_port.h)(0x4B95DE40)
+I (1986be91_bkp.h)(0x4B95DE40)
+I (1986be91_ext_bus_cntrl.h)(0x4B95DE40)
+I (1986be91_sys.h)(0x4B95DE40)
+F (.\Menu.c)(0x4C46B9A4)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Milandr\MDR32F9x-D__UVISION_VERSION="517"-o .\menu.o --omf_browse .\menu.crf --depend .\menu.d)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x55DB71C8)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x55DB71CE)
+I (Menu.h)(0x4C36AD0C)
+I (types.h)(0x4BF60090)
+I (1986BE91T1.h)(0x4BF4E840)
+I (1986be91_can.h)(0x4B95DE40)
+I (cm3_macro.h)(0x4B95DE40)
+I (1986be91_usb.h)(0x4B95DE40)
+I (1986be91_eeprom.h)(0x4B95DE40)
+I (1986be91_rst_clk.h)(0x4B95DE40)
+I (1986be91_dma.h)(0x4B95DE40)
+I (1986be91_uart.h)(0x4B95DE40)
+I (1986be91_spi.h)(0x4B95DE40)
+I (1986be91_i2c.h)(0x4B95DE40)
+I (1986be91_power.h)(0x4B95DE40)
+I (1986be91_wwdg.h)(0x4B95DE40)
+I (1986be91_iwdg.h)(0x4B95DE40)
+I (1986be91_timer.h)(0x4B95DE40)
+I (1986be91_adc.h)(0x4B95DE40)
+I (1986be91_dac.h)(0x4B95DE40)
+I (1986be91_comp.h)(0x4B95DE40)
+I (1986be91_port.h)(0x4B95DE40)
+I (1986be91_bkp.h)(0x4B95DE40)
+I (1986be91_ext_bus_cntrl.h)(0x4B95DE40)
+I (1986be91_sys.h)(0x4B95DE40)
+I (Menu_items.h)(0x4C359084)
+I (lcd.h)(0x4C3583A0)
+I (gl.h)(0x4BF60054)
+I (text.h)(0x4C36B810)
+I (font_defs.h)(0x4BF60054)
+I (joystick.h)(0x4BF60054)
+I (leds.h)(0x4BF60018)
+I (analog.h)(0x4C3FB99C)
+I (uart.h)(0x4C3A919C)
+I (timer.h)(0x4C3D5530)
+I (test.h)(0x4C57D7C0)
+F (.\Menu_gl.c)(0x4C6D058C)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Milandr\MDR32F9x-D__UVISION_VERSION="517"-o .\menu_gl.o --omf_browse .\menu_gl.crf --depend .\menu_gl.d)
+I (Menu.h)(0x4C36AD0C)
+I (types.h)(0x4BF60090)
+I (1986BE91T1.h)(0x4BF4E840)
+I (1986be91_can.h)(0x4B95DE40)
+I (cm3_macro.h)(0x4B95DE40)
+I (1986be91_usb.h)(0x4B95DE40)
+I (1986be91_eeprom.h)(0x4B95DE40)
+I (1986be91_rst_clk.h)(0x4B95DE40)
+I (1986be91_dma.h)(0x4B95DE40)
+I (1986be91_uart.h)(0x4B95DE40)
+I (1986be91_spi.h)(0x4B95DE40)
+I (1986be91_i2c.h)(0x4B95DE40)
+I (1986be91_power.h)(0x4B95DE40)
+I (1986be91_wwdg.h)(0x4B95DE40)
+I (1986be91_iwdg.h)(0x4B95DE40)
+I (1986be91_timer.h)(0x4B95DE40)
+I (1986be91_adc.h)(0x4B95DE40)
+I (1986be91_dac.h)(0x4B95DE40)
+I (1986be91_comp.h)(0x4B95DE40)
+I (1986be91_port.h)(0x4B95DE40)
+I (1986be91_bkp.h)(0x4B95DE40)
+I (1986be91_ext_bus_cntrl.h)(0x4B95DE40)
+I (1986be91_sys.h)(0x4B95DE40)
+I (Menu_items.h)(0x4C359084)
+I (gl.h)(0x4BF60054)
+I (lcd.h)(0x4C3583A0)
+I (joystick.h)(0x4BF60054)
+I (systick.h)(0x4C3585F8)
+I (text.h)(0x4C36B810)
+I (font_defs.h)(0x4BF60054)
+F (.\Menu_leds.c)(0x4BF5FEEC)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Milandr\MDR32F9x-D__UVISION_VERSION="517"-o .\menu_leds.o --omf_browse .\menu_leds.crf --depend .\menu_leds.d)
+I (Menu.h)(0x4C36AD0C)
+I (types.h)(0x4BF60090)
+I (1986BE91T1.h)(0x4BF4E840)
+I (1986be91_can.h)(0x4B95DE40)
+I (cm3_macro.h)(0x4B95DE40)
+I (1986be91_usb.h)(0x4B95DE40)
+I (1986be91_eeprom.h)(0x4B95DE40)
+I (1986be91_rst_clk.h)(0x4B95DE40)
+I (1986be91_dma.h)(0x4B95DE40)
+I (1986be91_uart.h)(0x4B95DE40)
+I (1986be91_spi.h)(0x4B95DE40)
+I (1986be91_i2c.h)(0x4B95DE40)
+I (1986be91_power.h)(0x4B95DE40)
+I (1986be91_wwdg.h)(0x4B95DE40)
+I (1986be91_iwdg.h)(0x4B95DE40)
+I (1986be91_timer.h)(0x4B95DE40)
+I (1986be91_adc.h)(0x4B95DE40)
+I (1986be91_dac.h)(0x4B95DE40)
+I (1986be91_comp.h)(0x4B95DE40)
+I (1986be91_port.h)(0x4B95DE40)
+I (1986be91_bkp.h)(0x4B95DE40)
+I (1986be91_ext_bus_cntrl.h)(0x4B95DE40)
+I (1986be91_sys.h)(0x4B95DE40)
+I (Menu_items.h)(0x4C359084)
+I (leds.h)(0x4BF60018)
+I (lcd.h)(0x4C3583A0)
+I (text.h)(0x4C36B810)
+I (font_defs.h)(0x4BF60054)
+I (joystick.h)(0x4BF60054)
+F (.\Menu_text.c)(0x4BF5FF28)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Milandr\MDR32F9x-D__UVISION_VERSION="517"-o .\menu_text.o --omf_browse .\menu_text.crf --depend .\menu_text.d)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x55DB71C8)
+I (lcd.h)(0x4C3583A0)
+I (types.h)(0x4BF60090)
+I (1986BE91T1.h)(0x4BF4E840)
+I (1986be91_can.h)(0x4B95DE40)
+I (cm3_macro.h)(0x4B95DE40)
+I (1986be91_usb.h)(0x4B95DE40)
+I (1986be91_eeprom.h)(0x4B95DE40)
+I (1986be91_rst_clk.h)(0x4B95DE40)
+I (1986be91_dma.h)(0x4B95DE40)
+I (1986be91_uart.h)(0x4B95DE40)
+I (1986be91_spi.h)(0x4B95DE40)
+I (1986be91_i2c.h)(0x4B95DE40)
+I (1986be91_power.h)(0x4B95DE40)
+I (1986be91_wwdg.h)(0x4B95DE40)
+I (1986be91_iwdg.h)(0x4B95DE40)
+I (1986be91_timer.h)(0x4B95DE40)
+I (1986be91_adc.h)(0x4B95DE40)
+I (1986be91_dac.h)(0x4B95DE40)
+I (1986be91_comp.h)(0x4B95DE40)
+I (1986be91_port.h)(0x4B95DE40)
+I (1986be91_bkp.h)(0x4B95DE40)
+I (1986be91_ext_bus_cntrl.h)(0x4B95DE40)
+I (1986be91_sys.h)(0x4B95DE40)
+I (Menu.h)(0x4C36AD0C)
+I (Menu_items.h)(0x4C359084)
+I (text.h)(0x4C36B810)
+I (font_defs.h)(0x4BF60054)
+I (joystick.h)(0x4BF60054)
+F (.\systick.c)(0x4C36AEEC)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Milandr\MDR32F9x-D__UVISION_VERSION="517"-o .\systick.o --omf_browse .\systick.crf --depend .\systick.d)
+I (systick.h)(0x4C3585F8)
+I (types.h)(0x4BF60090)
+I (1986BE91T1.h)(0x4BF4E840)
+I (1986be91_can.h)(0x4B95DE40)
+I (cm3_macro.h)(0x4B95DE40)
+I (1986be91_usb.h)(0x4B95DE40)
+I (1986be91_eeprom.h)(0x4B95DE40)
+I (1986be91_rst_clk.h)(0x4B95DE40)
+I (1986be91_dma.h)(0x4B95DE40)
+I (1986be91_uart.h)(0x4B95DE40)
+I (1986be91_spi.h)(0x4B95DE40)
+I (1986be91_i2c.h)(0x4B95DE40)
+I (1986be91_power.h)(0x4B95DE40)
+I (1986be91_wwdg.h)(0x4B95DE40)
+I (1986be91_iwdg.h)(0x4B95DE40)
+I (1986be91_timer.h)(0x4B95DE40)
+I (1986be91_adc.h)(0x4B95DE40)
+I (1986be91_dac.h)(0x4B95DE40)
+I (1986be91_comp.h)(0x4B95DE40)
+I (1986be91_port.h)(0x4B95DE40)
+I (1986be91_bkp.h)(0x4B95DE40)
+I (1986be91_ext_bus_cntrl.h)(0x4B95DE40)
+I (1986be91_sys.h)(0x4B95DE40)
+F (.\startup_MPS.s)(0x4AF150A0)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Milandr\MDR32F9x--pd "__UVISION_VERSION SETA 517"--list .\startup_mps.lst --xref -o .\startup_mps.o --depend .\startup_mps.d)
+F (.\analog.c)(0x4C4E5C90)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Milandr\MDR32F9x-D__UVISION_VERSION="517"-o .\analog.o --omf_browse .\analog.crf --depend .\analog.d)
+I (leds.h)(0x4BF60018)
+I (types.h)(0x4BF60090)
+I (1986BE91T1.h)(0x4BF4E840)
+I (1986be91_can.h)(0x4B95DE40)
+I (cm3_macro.h)(0x4B95DE40)
+I (1986be91_usb.h)(0x4B95DE40)
+I (1986be91_eeprom.h)(0x4B95DE40)
+I (1986be91_rst_clk.h)(0x4B95DE40)
+I (1986be91_dma.h)(0x4B95DE40)
+I (1986be91_uart.h)(0x4B95DE40)
+I (1986be91_spi.h)(0x4B95DE40)
+I (1986be91_i2c.h)(0x4B95DE40)
+I (1986be91_power.h)(0x4B95DE40)
+I (1986be91_wwdg.h)(0x4B95DE40)
+I (1986be91_iwdg.h)(0x4B95DE40)
+I (1986be91_timer.h)(0x4B95DE40)
+I (1986be91_adc.h)(0x4B95DE40)
+I (1986be91_dac.h)(0x4B95DE40)
+I (1986be91_comp.h)(0x4B95DE40)
+I (1986be91_port.h)(0x4B95DE40)
+I (1986be91_bkp.h)(0x4B95DE40)
+I (1986be91_ext_bus_cntrl.h)(0x4B95DE40)
+I (1986be91_sys.h)(0x4B95DE40)
+I (lcd.h)(0x4C3583A0)
+I (text.h)(0x4C36B810)
+I (font_defs.h)(0x4BF60054)
+I (joystick.h)(0x4BF60054)
+I (menu.h)(0x4C36AD0C)
+I (analog.h)(0x4C3FB99C)
+F (.\uart.c)(0x4C3ABD70)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Milandr\MDR32F9x-D__UVISION_VERSION="517"-o .\uart.o --omf_browse .\uart.crf --depend .\uart.d)
+I (leds.h)(0x4BF60018)
+I (types.h)(0x4BF60090)
+I (1986BE91T1.h)(0x4BF4E840)
+I (1986be91_can.h)(0x4B95DE40)
+I (cm3_macro.h)(0x4B95DE40)
+I (1986be91_usb.h)(0x4B95DE40)
+I (1986be91_eeprom.h)(0x4B95DE40)
+I (1986be91_rst_clk.h)(0x4B95DE40)
+I (1986be91_dma.h)(0x4B95DE40)
+I (1986be91_uart.h)(0x4B95DE40)
+I (1986be91_spi.h)(0x4B95DE40)
+I (1986be91_i2c.h)(0x4B95DE40)
+I (1986be91_power.h)(0x4B95DE40)
+I (1986be91_wwdg.h)(0x4B95DE40)
+I (1986be91_iwdg.h)(0x4B95DE40)
+I (1986be91_timer.h)(0x4B95DE40)
+I (1986be91_adc.h)(0x4B95DE40)
+I (1986be91_dac.h)(0x4B95DE40)
+I (1986be91_comp.h)(0x4B95DE40)
+I (1986be91_port.h)(0x4B95DE40)
+I (1986be91_bkp.h)(0x4B95DE40)
+I (1986be91_ext_bus_cntrl.h)(0x4B95DE40)
+I (1986be91_sys.h)(0x4B95DE40)
+I (lcd.h)(0x4C3583A0)
+I (text.h)(0x4C36B810)
+I (font_defs.h)(0x4BF60054)
+I (joystick.h)(0x4BF60054)
+I (menu.h)(0x4C36AD0C)
+I (uart.h)(0x4C3A919C)
+F (.\test.c)(0x4C74E9A0)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Milandr\MDR32F9x-D__UVISION_VERSION="517"-o .\test.o --omf_browse .\test.crf --depend .\test.d)
+I (test.h)(0x4C57D7C0)
+I (types.h)(0x4BF60090)
+I (1986BE91T1.h)(0x4BF4E840)
+I (1986be91_can.h)(0x4B95DE40)
+I (cm3_macro.h)(0x4B95DE40)
+I (1986be91_usb.h)(0x4B95DE40)
+I (1986be91_eeprom.h)(0x4B95DE40)
+I (1986be91_rst_clk.h)(0x4B95DE40)
+I (1986be91_dma.h)(0x4B95DE40)
+I (1986be91_uart.h)(0x4B95DE40)
+I (1986be91_spi.h)(0x4B95DE40)
+I (1986be91_i2c.h)(0x4B95DE40)
+I (1986be91_power.h)(0x4B95DE40)
+I (1986be91_wwdg.h)(0x4B95DE40)
+I (1986be91_iwdg.h)(0x4B95DE40)
+I (1986be91_timer.h)(0x4B95DE40)
+I (1986be91_adc.h)(0x4B95DE40)
+I (1986be91_dac.h)(0x4B95DE40)
+I (1986be91_comp.h)(0x4B95DE40)
+I (1986be91_port.h)(0x4B95DE40)
+I (1986be91_bkp.h)(0x4B95DE40)
+I (1986be91_ext_bus_cntrl.h)(0x4B95DE40)
+I (1986be91_sys.h)(0x4B95DE40)
+I (leds.h)(0x4BF60018)
+I (lcd.h)(0x4C3583A0)
+I (text.h)(0x4C36B810)
+I (font_defs.h)(0x4BF60054)
+I (joystick.h)(0x4BF60054)
+I (menu.h)(0x4C36AD0C)
+F (.\timer.c)(0x4C47C204)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Milandr\MDR32F9x-D__UVISION_VERSION="517"-o .\timer.o --omf_browse .\timer.crf --depend .\timer.d)
+I (leds.h)(0x4BF60018)
+I (types.h)(0x4BF60090)
+I (1986BE91T1.h)(0x4BF4E840)
+I (1986be91_can.h)(0x4B95DE40)
+I (cm3_macro.h)(0x4B95DE40)
+I (1986be91_usb.h)(0x4B95DE40)
+I (1986be91_eeprom.h)(0x4B95DE40)
+I (1986be91_rst_clk.h)(0x4B95DE40)
+I (1986be91_dma.h)(0x4B95DE40)
+I (1986be91_uart.h)(0x4B95DE40)
+I (1986be91_spi.h)(0x4B95DE40)
+I (1986be91_i2c.h)(0x4B95DE40)
+I (1986be91_power.h)(0x4B95DE40)
+I (1986be91_wwdg.h)(0x4B95DE40)
+I (1986be91_iwdg.h)(0x4B95DE40)
+I (1986be91_timer.h)(0x4B95DE40)
+I (1986be91_adc.h)(0x4B95DE40)
+I (1986be91_dac.h)(0x4B95DE40)
+I (1986be91_comp.h)(0x4B95DE40)
+I (1986be91_port.h)(0x4B95DE40)
+I (1986be91_bkp.h)(0x4B95DE40)
+I (1986be91_ext_bus_cntrl.h)(0x4B95DE40)
+I (1986be91_sys.h)(0x4B95DE40)
+I (lcd.h)(0x4C3583A0)
+I (text.h)(0x4C36B810)
+I (font_defs.h)(0x4BF60054)
+I (joystick.h)(0x4BF60054)
+I (menu.h)(0x4C36AD0C)
+I (timer.h)(0x4C3D5530)
+F (.\FlashDev.c)(0x56789537)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Milandr\MDR32F9x-D__UVISION_VERSION="517"-o .\flashdev.o --omf_browse .\flashdev.crf --depend .\flashdev.d)
+I (C:\Keil_v5\ARM\Flash\FlashOS.H)(0x55AF3CA4)
+F (.\FlashPrg.c)(0x56789525)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Milandr\MDR32F9x-D__UVISION_VERSION="517"-o .\flashprg.o --omf_browse .\flashprg.crf --depend .\flashprg.d)
+I (C:\Keil_v5\ARM\Flash\FlashOS.H)(0x55AF3CA4)

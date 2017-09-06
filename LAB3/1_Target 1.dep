@@ -1,0 +1,119 @@
+Dependencies for Project '1', Target 'Target 1': (DO NOT MODIFY !)
+F (.\1986be91_adc.h)(0x4B95DE40)()
+F (.\1986be91_bkp.h)(0x4B95DE40)()
+F (.\1986be91_can.h)(0x4B95DE40)()
+F (.\1986be91_comp.h)(0x4B95DE40)()
+F (.\1986be91_dac.h)(0x4B95DE40)()
+F (.\1986be91_dma.h)(0x4B95DE40)()
+F (.\1986be91_eeprom.h)(0x4B95DE40)()
+F (.\1986be91_ext_bus_cntrl.h)(0x4B95DE40)()
+F (.\1986be91_i2c.h)(0x4B95DE40)()
+F (.\1986be91_iwdg.h)(0x4B95DE40)()
+F (.\1986be91_port.h)(0x4B95DE40)()
+F (.\1986be91_power.h)(0x4B95DE40)()
+F (.\1986be91_rst_clk.h)(0x4B95DE40)()
+F (.\1986be91_spi.h)(0x4B95DE40)()
+F (.\1986be91_sys.h)(0x4B95DE40)()
+F (.\1986be91_timer.h)(0x4B95DE40)()
+F (.\1986be91_uart.h)(0x4B95DE40)()
+F (.\1986be91_usb.h)(0x4B95DE40)()
+F (.\1986be91_wwdg.h)(0x4B95DE40)()
+F (.\1986be91t1.h)(0x4BF4DA30)()
+F (.\main.c)(0x56817A97)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I..\Milandr2 -I.\CMSIS -I.\int-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Milandr\MDR32F9x-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (1986be91t1.h)(0x4BF4DA30)
+I (1986be91_can.h)(0x4B95DE40)
+I (cm3_macro.h)(0x4B95DE40)
+I (1986be91_usb.h)(0x4B95DE40)
+I (1986be91_eeprom.h)(0x4B95DE40)
+I (1986be91_rst_clk.h)(0x4B95DE40)
+I (1986be91_dma.h)(0x4B95DE40)
+I (1986be91_uart.h)(0x4B95DE40)
+I (1986be91_spi.h)(0x4B95DE40)
+I (1986be91_i2c.h)(0x4B95DE40)
+I (1986be91_power.h)(0x4B95DE40)
+I (1986be91_wwdg.h)(0x4B95DE40)
+I (1986be91_iwdg.h)(0x4B95DE40)
+I (1986be91_timer.h)(0x4B95DE40)
+I (1986be91_adc.h)(0x4B95DE40)
+I (1986be91_dac.h)(0x4B95DE40)
+I (1986be91_comp.h)(0x4B95DE40)
+I (1986be91_port.h)(0x4B95DE40)
+I (1986be91_bkp.h)(0x4B95DE40)
+I (1986be91_ext_bus_cntrl.h)(0x4B95DE40)
+I (1986be91_sys.h)(0x4B95DE40)
+I (.\int\MDR32F9Qx_it.h)(0x5295DD4C)
+I (.\int\MDR32Fx.h)(0x5295DD4C)
+I (.\CMSIS\core_cm3.h)(0x5295DD4C)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7FD94)
+I (.\int\system_MDR32F9Qx.h)(0x5295DD4C)
+I (.\int\MDR32F9Qx_port.h)(0x5295DD4C)
+I (.\int\MDR32F9Qx_config.h)(0x5295DD4E)
+I (.\int\MDR32F9Qx_board.h)(0x5295DD4C)
+I (.\int\MDR32F9Qx_lib.h)(0x5678BDD8)
+I (.\CMSIS\stdint.h)(0x5295DD4C)
+F (.\cm3_macro.h)(0x4B95DE40)()
+F (.\MDR32Fx.h)(0x5295DD4C)()
+F (.\system_MDR32F9Qx.c)(0x5295DD4C)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I..\Milandr2 -I.\CMSIS -I.\int-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Milandr\MDR32F9x-o .\system_mdr32f9qx.o --omf_browse .\system_mdr32f9qx.crf --depend .\system_mdr32f9qx.d)
+I (MDR32Fx.h)(0x5295DD4C)
+I (.\CMSIS\core_cm3.h)(0x5295DD4C)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7FD94)
+I (system_MDR32F9Qx.h)(0x5295DD4C)
+I (MDR32F9Qx_config.h)(0x5295DD4E)
+I (MDR32F9Qx_board.h)(0x5295DD4C)
+I (MDR32F9Qx_lib.h)(0x5295DD4C)
+I (.\CMSIS\stdint.h)(0x5295DD4C)
+F (.\system_MDR32F9Qx.h)(0x5295DD4C)()
+F (.\startup_MDR32F9Qx.s)(0x5295DD4C)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Milandr\MDR32F9x--list .\startup_mdr32f9qx.lst --xref -o .\startup_mdr32f9qx.o --depend .\startup_mdr32f9qx.d)
+F (.\MDR32F9Qx_board.h)(0x5295DD4C)()
+F (.\MDR32F9Qx_config.h)(0x5295DD4E)()
+F (.\MDR32F9Qx_lib.h)(0x5295DD4C)()
+F (.\CMSIS\core_cm3.c)(0x5295DD4C)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I..\Milandr2 -I.\CMSIS -I.\int-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Milandr\MDR32F9x-o .\core_cm3.o --omf_browse .\core_cm3.crf --depend .\core_cm3.d)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7FD94)
+F (.\CMSIS\core_cm3.h)(0x5295DD4C)()
+F (.\CMSIS\stdint.h)(0x5295DD4C)()
+F (.\int\MDR32F9Qx_board.h)(0x5295DD4C)()
+F (.\int\MDR32F9Qx_config.h)(0x5295DD4E)()
+F (.\int\MDR32F9Qx_it.c)(0x56817BF6)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I..\Milandr2 -I.\CMSIS -I.\int-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Milandr\MDR32F9x-o .\mdr32f9qx_it.o --omf_browse .\mdr32f9qx_it.crf --depend .\mdr32f9qx_it.d)
+I (int\1986BE91T1.h)(0x4BF4DA30)
+I (int\1986be91_can.h)(0x4B95DE40)
+I (int\cm3_macro.h)(0x4B95DE40)
+I (int\1986be91_usb.h)(0x4B95DE40)
+I (int\1986be91_eeprom.h)(0x4B95DE40)
+I (int\1986be91_rst_clk.h)(0x4B95DE40)
+I (int\1986be91_dma.h)(0x4B95DE40)
+I (int\1986be91_uart.h)(0x4B95DE40)
+I (int\1986be91_spi.h)(0x4B95DE40)
+I (int\1986be91_i2c.h)(0x4B95DE40)
+I (int\1986be91_power.h)(0x4B95DE40)
+I (int\1986be91_wwdg.h)(0x4B95DE40)
+I (int\1986be91_iwdg.h)(0x4B95DE40)
+I (int\1986be91_timer.h)(0x4B95DE40)
+I (int\1986be91_adc.h)(0x4B95DE40)
+I (int\1986be91_dac.h)(0x4B95DE40)
+I (int\1986be91_comp.h)(0x4B95DE40)
+I (int\1986be91_port.h)(0x4B95DE40)
+I (int\1986be91_bkp.h)(0x4B95DE40)
+I (int\1986be91_ext_bus_cntrl.h)(0x4B95DE40)
+I (int\1986be91_sys.h)(0x4B95DE40)
+I (int\MDR32F9Qx_port.h)(0x5295DD4C)
+I (int\MDR32F9Qx_config.h)(0x5295DD4E)
+I (int\MDR32F9Qx_board.h)(0x5295DD4C)
+I (int\MDR32F9Qx_lib.h)(0x5678BDD8)
+I (.\CMSIS\stdint.h)(0x5295DD4C)
+I (int\MDR32Fx.h)(0x5295DD4C)
+I (.\CMSIS\core_cm3.h)(0x5295DD4C)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7FD94)
+I (int\system_MDR32F9Qx.h)(0x5295DD4C)
+F (.\int\MDR32F9Qx_it.h)(0x5295DD4C)()
+F (.\int\MDR32F9Qx_lib.h)(0x5678BDD8)()
+F (.\int\MDR32F9Qx_port.c)(0x5295DD4C)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I..\Milandr2 -I.\CMSIS -I.\int-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Milandr\MDR32F9x-o .\mdr32f9qx_port.o --omf_browse .\mdr32f9qx_port.crf --depend .\mdr32f9qx_port.d)
+I (int\MDR32F9Qx_config.h)(0x5295DD4E)
+I (int\MDR32F9Qx_board.h)(0x5295DD4C)
+I (int\MDR32F9Qx_lib.h)(0x5678BDD8)
+I (.\CMSIS\stdint.h)(0x5295DD4C)
+I (int\MDR32Fx.h)(0x5295DD4C)
+I (.\CMSIS\core_cm3.h)(0x5295DD4C)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7FD94)
+I (int\system_MDR32F9Qx.h)(0x5295DD4C)
+I (int\MDR32F9Qx_port.h)(0x5295DD4C)
+F (.\int\MDR32F9Qx_port.h)(0x5295DD4C)()

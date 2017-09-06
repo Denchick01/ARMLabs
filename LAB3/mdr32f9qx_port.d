@@ -1,0 +1,10 @@
+.\mdr32f9qx_port.o: int\MDR32F9Qx_port.c
+.\mdr32f9qx_port.o: int\MDR32F9Qx_config.h
+.\mdr32f9qx_port.o: int\MDR32F9Qx_board.h
+.\mdr32f9qx_port.o: int\MDR32F9Qx_lib.h
+.\mdr32f9qx_port.o: .\CMSIS\stdint.h
+.\mdr32f9qx_port.o: int\MDR32Fx.h
+.\mdr32f9qx_port.o: .\CMSIS\core_cm3.h
+.\mdr32f9qx_port.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\mdr32f9qx_port.o: int\system_MDR32F9Qx.h
+.\mdr32f9qx_port.o: int\MDR32F9Qx_port.h

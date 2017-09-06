@@ -1,0 +1,40 @@
+*** Creating Trace Output File 'Demo.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"text.o"'
+### List of Objects: adding '"font_6x8.o"'
+### List of Objects: adding '"font_7x10_bold.o"'
+### List of Objects: adding '"font_7x10_thin.o"'
+### List of Objects: adding '"font_12x16.o"'
+### List of Objects: adding '"gl.o"'
+### List of Objects: adding '"joystick.o"'
+### List of Objects: adding '"lcd.o"'
+### List of Objects: adding '"leds.o"'
+### List of Objects: adding '"main.o"'
+### List of Objects: adding '"menu.o"'
+### List of Objects: adding '"menu_gl.o"'
+### List of Objects: adding '"menu_leds.o"'
+### List of Objects: adding '"menu_text.o"'
+### List of Objects: adding '"systick.o"'
+### List of Objects: adding '"startup_mps.o"'
+### List of Objects: adding '"analog.o"'
+### List of Objects: adding '"uart.o"'
+### List of Objects: adding '"test.o"'
+### List of Objects: adding '"timer.o"'
+### List of Objects: adding '"flashdev.o"'
+### List of Objects: adding '"flashprg.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 "text.o" "font_6x8.o" "font_7x10_bold.o" "font_7x10_thin.o" "font_12x16.o" "gl.o" "joystick.o" "lcd.o" "leds.o" "main.o" "menu.o" "menu_gl.o" "menu_leds.o" "menu_text.o" "systick.o" "startup_mps.o" "analog.o" "uart.o" "test.o" "timer.o" "flashdev.o" "flashprg.o" --strict --scatter "Demo.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\Demo.map" -o "Demo.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: 'Demo.axf'
+### ADS-LD Command File: 'Demo.lnp'
+### Checking for dirty Components...
+### Creating CmdFile 'Demo.lnp', Handle=0x00000D44
+### Writing '.lnp' file
+### ADS-LD Command file 'Demo.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.
